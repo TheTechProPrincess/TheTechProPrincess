@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I’m a tech enthusiast with a passion for IT solutions, cybersecurity, and making systems smarter and more secure. Whether it’s troubleshooting IT issues, setting up networks, or experimenting with cybersecurity tools, I’m always eager to learn and grow.
 
 🌟 About Me
+
 	•	💻 IT & Cybersecurity Hybrid: Combining IT expertise with a growing focus on cybersecurity to build secure, efficient systems.
 	•	🧑🏾‍🎓 Computer Science Student: Pursuing a Bachelor’s in Computer Science at Texas Southern University.
 	•	🛠️ Problem-Solver: I thrive on tackling technical challenges, from troubleshooting hardware to deploying honeypots and securing networks.
