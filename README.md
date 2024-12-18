@@ -1,6 +1,6 @@
 👋 Hi, I’m @TheTechProPrincess
 
-Welcome to my GitHub profile! I’m a tech enthusiast with a passion for IT solutions, cybersecurity, and making systems 
+Welcome to my GitHub profile! I’m a tech enthusiast with certifications in CompTIA Security+ and TCM The Definitive GRC Master Class. I have a passion for IT solutions, cybersecurity, and making systems 
 smarter and more secure. Whether it’s troubleshooting IT issues, setting up networks, or experimenting with cybersecurity tools, 
 I’m always eager to learn and grow.
 
