@@ -9,6 +9,7 @@ I’m always eager to learn and grow.
 	•	💻 IT & Cybersecurity Hybrid: Combining IT expertise with a growing focus on cybersecurity to build secure, efficient systems.
 	•	🧑🏾‍🎓 Computer Science Student: Pursuing a Bachelor’s in Computer Science at Texas Southern University.
 	•	🛠️ Problem-Solver: I thrive on tackling technical challenges, from troubleshooting hardware to deploying honeypots and securing networks.
+ • 📜 Certifications: CompTIA Security+ and TCM The Definitive GRC Master Class
 
 🔧 Skills & Tools
 
