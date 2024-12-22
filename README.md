@@ -25,7 +25,7 @@ I’m always eager to learn and grow.
 	•	Business Continuity Plan (BCP): I worked on creating a Business Continuity Plan to ensure that essential systems and data are backed up and can be quickly restored in case of unexpected IT disruptions. This plan is designed to minimize downtime and keep operations running smoothly.
 	•	Incident Response Plan: I’ve created an Incident Response Plan that outlines the steps IT teams should take to detect, assess, and respond to security incidents. The goal is to minimize potential damage and ensure a quick, effective recovery.
 	•	Active Directory User Management Script: Using PowerShell, I wrote a script that automates the process of managing user accounts in Active Directory—whether it’s creating, modifying, or deleting users. This helps save time and reduces errors when managing multiple users in an organization.
-	•	Onboarding and Offboarding Automation: I’ve automated the process of onboarding new employees and offboarding those leaving the company. This ensures that new hires get the proper access and training, while departing employees have their accounts securely deactivated.
+	•	IT Risk Assessment and Solutions
 
 🤝 Let’s Connect
 
