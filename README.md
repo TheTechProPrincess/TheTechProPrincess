@@ -1,4 +1,4 @@
-👋 Hi, I’m @TheTechProPrincess
+👋 Hi, I’m Lillian McGowan
 
 Welcome to my GitHub profile! I’m a tech enthusiast with certifications in CompTIA Security+ and The Definitive GRC Master Class course by TCM. I have a passion for IT solutions, cybersecurity, and making systems 
 smarter and more secure. Whether it’s troubleshooting IT issues, bridging the gap between IT and business operations, or experimenting with cybersecurity tools, 
