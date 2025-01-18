@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I’m a tech enthusiast with certifications in Com
 smarter and more secure. Whether it’s troubleshooting IT issues, bridging the gap between IT and business operations, or experimenting with cybersecurity tools, 
 I’m always eager to learn and grow.
 
-🌟 About Me
+👑 About Me
 
 	•	💻 IT & Cybersecurity Hybrid: Combining IT expertise with a growing focus on cybersecurity to build secure, efficient systems.
-	•	🧑🏾‍🎓 Computer Science Student: Pursuing a Bachelor’s in Computer Science at Texas Southern University.
-	•	🛠️ Problem-Solver: I thrive on tackling technical challenges, from troubleshooting hardware to deploying honeypots and securing networks.
+	•	🧑🏾‍🎓 Computer Science Student: Bachelor’s in Computer Science at Texas Southern University.
+	•	🛠️ Problem-Solver: I thrive on tackling technical and cybersecurity challenges, from troubleshooting hardware to deploying honeypots and securing networks.
  
 
 🔧 Skills & Tools
@@ -21,11 +21,12 @@ I’m always eager to learn and grow.
 
 🛠️ Current Projects
 
-	•	User Account Setup: I’ve developed a streamlined process for setting up user accounts across various systems, ensuring that each account is configured with the correct permissions and access levels based on the user’s role.
+	•	Basic Risk Assessment: Conducted a risk assessment for a small business, identifying assets, potential threats, and mitigation strategies. Includes a completed risk matrix and report.
 	•	Business Continuity Plan (BCP): I worked on creating a Business Continuity Plan to ensure that essential systems and data are backed up and can be quickly restored in case of unexpected IT disruptions. This plan is designed to minimize downtime and keep operations running smoothly.
 	•	Incident Response Plan: I’ve created an Incident Response Plan that outlines the steps IT teams should take to detect, assess, and respond to security incidents. The goal is to minimize potential damage and ensure a quick, effective recovery.
-	•	Active Directory User Management Script: Using PowerShell, I wrote a script that automates the process of managing user accounts in Active Directory—whether it’s creating, modifying, or deleting users. This helps save time and reduces errors when managing multiple users in an organization.
-	•	IT Risk Assessment and Solutions
+	•	Vendor Risk Assessment: Created a vendor security questionnaire to assess third-party risks, analyzed responses, and provided recommendations for improving compliance.
+ • IT Risk Assessment and Mitigation Plan: Performed an IT risk assessment to identify vulnerabilities in systems and processes. Developed a mitigation plan to address high-risk areas, ensuring better security and operational resilience.
+	• IT Policies and Procedures: Designed comprehensive IT policies and procedures to establish guidelines for data security, user access, and incident management. Focused on aligning practices with industry standards to maintain compliance and safeguard assets.
 
 🤝 Let’s Connect
 
