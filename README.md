@@ -21,12 +21,12 @@ I’m always eager to learn and grow.
 
 🛠️ # Current Projects
 
-	- **Basic Risk Assessment**: Conducted a risk assessment for a small business, identifying assets, potential threats, and mitigation strategies. Includes a completed risk matrix and report.  
-	- **Business Continuity Plan (BCP)**: Created a Business Continuity Plan to ensure that essential systems and data are backed up and can be quickly restored in case of unexpected IT disruptions. This plan is designed to minimize downtime and keep operations running smoothly.  
-	- **Incident Response Plan**: Developed an Incident Response Plan that outlines the steps IT teams should take to detect, assess, and respond to security incidents. The goal is to minimize potential damage and ensure a quick, effective recovery.  
-	- **Vendor Risk Assessment**: Created a vendor security questionnaire to assess third-party risks, analyzed responses, and provided recommendations for improving compliance.  
-	- **IT Risk Assessment and Mitigation Plan**: Performed an IT risk assessment to identify vulnerabilities in systems and processes. Developed a mitigation plan to address high-risk areas, ensuring better security and operational resilience.  
-	- **IT Policies and Procedures**: Designed comprehensive IT policies and procedures to establish guidelines for data security, user access, and incident management. Focused on aligning practices with industry standards to maintain compliance and safeguard assets.  
+	- Basic Risk Assessment: Conducted a risk assessment for a small business, identifying assets, potential threats, and mitigation strategies. Includes a completed risk matrix and report.  
+	- Business Continuity Plan (BCP): Created a Business Continuity Plan to ensure that essential systems and data are backed up and can be quickly restored in case of unexpected IT disruptions. This plan is designed to minimize downtime and keep operations running smoothly.  
+	- Incident Response Plan: Developed an Incident Response Plan that outlines the steps IT teams should take to detect, assess, and respond to security incidents. The goal is to minimize potential damage and ensure a quick, effective recovery.  
+	- Vendor Risk Assessment: Created a vendor security questionnaire to assess third-party risks, analyzed responses, and provided recommendations for improving compliance.  
+	- IT Risk Assessment and Mitigation Plan: Performed an IT risk assessment to identify vulnerabilities in systems and processes. Developed a mitigation plan to address high-risk areas, ensuring better security and operational resilience.  
+	- IT Policies and Procedures: Designed comprehensive IT policies and procedures to establish guidelines for data security, user access, and incident management. Focused on aligning practices with industry standards to maintain compliance and safeguard assets.  
 
 🤝 Let’s Connect
 
