@@ -1,13 +1,13 @@
 👋 Hi, I’m Lillian McGowan
 
-Welcome to my GitHub profile! I’m a tech enthusiast with certifications in CompTIA Security+ and The Definitive GRC Master Class course by TCM. I have a passion for IT solutions, cybersecurity, and making systems 
+Welcome to my GitHub profile! I’m a tech and cybersecurity professional with certifications in CompTIA Security+, Microsoft Azure, IC2 Cybersecurity, and The Definitive GRC Master Class course by TCM. I have a passion for IT solutions, cybersecurity, and making systems 
 smarter and more secure. Whether it’s troubleshooting IT issues, bridging the gap between IT and business operations, or experimenting with cybersecurity tools, 
 I’m always eager to learn and grow.
 
 👑 About Me
 
 	•	💻 IT & Cybersecurity Hybrid: Combining IT expertise with a growing focus on cybersecurity to build secure, efficient systems.
-	•	🧑🏾‍🎓 Computer Science Student: Bachelor’s in Computer Science at Texas Southern University.
+	•	🧑🏾‍🎓 Business Administration Management Information Systems Major: Bachelor’s in Computer Science at Texas Southern University.
 	•	🛠️ Problem-Solver: I thrive on tackling technical and cybersecurity challenges, from troubleshooting hardware to deploying honeypots and securing networks.
  
 
