@@ -21,16 +21,16 @@ I’m always eager to learn and grow.
 
 🛠️ Current Projects
 
-	 - Azure-VM-Management – This project focuses on deploying and managing Azure Virtual Machines (VMs), configuring auto-shutdown policies, and implementing RBAC security for secure administrative access using PowerShell.
-	 - Azure-AD-User-Management – This project focuses on creating and managing Azure AD (Entra) users, enforcing security policies, and automating administrative tasks using PowerShell. Includes user creation, MFA enforcement, Privileged Identity Management (PIM), and Microsoft 365 license assignments.
-	- GxP-Compliance-Toolkit – A complete toolkit for ensuring compliance with Good x Practice (GxP) regulations, including Good Manufacturing Practice (GMP), Good Clinical Practice (GCP), and Good Laboratory Practice (GLP).
-	 - Network-Security-Risk-Assessment – This project focuses on identifying, analyzing, and mitigating cybersecurity risks within a corporate network environment. It includes a risk assessment report, risk matrix, and mitigation strategies to enhance security posture.
-	 - Basic Risk Assessment: Conducted a risk assessment for a small business, identifying assets, potential threats, and mitigation strategies. Includes a completed risk matrix and report.  
-	- Business Continuity Plan (BCP): Created a Business Continuity Plan to ensure that essential systems and data are backed up and can be quickly restored in case of unexpected IT disruptions. This plan is designed to minimize downtime and keep operations running smoothly.  
-	- Incident Response Plan: Developed an Incident Response Plan that outlines the steps IT teams should take to detect, assess, and respond to security incidents. The goal is to minimize potential damage and ensure a quick, effective recovery.  
-	- Vendor Risk Assessment: Created a vendor security questionnaire to assess third-party risks, analyzed responses, and provided recommendations for improving compliance.  
-	- IT Risk Assessment and Mitigation Plan: Performed an IT risk assessment to identify vulnerabilities in systems and processes. Developed a mitigation plan to address high-risk areas, ensuring better security and operational resilience.  
-	- IT Policies and Procedures: Designed comprehensive IT policies and procedures to establish guidelines for data security, user access, and incident management. Focused on aligning practices with industry standards to maintain compliance and safeguard assets.  
+	• Azure-VM-Management – This project focuses on deploying and managing Azure Virtual Machines (VMs), configuring auto-shutdown policies, and implementing RBAC security for secure administrative access using PowerShell.
+	• Azure-AD-User-Management – This project focuses on creating and managing Azure AD (Entra) users, enforcing security policies, and automating administrative tasks using PowerShell. Includes user creation, MFA enforcement, Privileged Identity Management (PIM), and Microsoft 365 license assignments.
+	• GxP-Compliance-Toolkit – A complete toolkit for ensuring compliance with Good x Practice (GxP) regulations, including Good Manufacturing Practice (GMP), Good Clinical Practice (GCP), and Good Laboratory Practice (GLP).
+	• Network-Security-Risk-Assessment – This project focuses on identifying, analyzing, and mitigating cybersecurity risks within a corporate network environment. It includes a risk assessment report, risk matrix, and mitigation strategies to enhance security posture.
+	• Basic Risk Assessment: Conducted a risk assessment for a small business, identifying assets, potential threats, and mitigation strategies. Includes a completed risk matrix and report.  
+	• Business Continuity Plan (BCP): Created a Business Continuity Plan to ensure that essential systems and data are backed up and can be quickly restored in case of unexpected IT disruptions. This plan is designed to minimize downtime and keep operations running smoothly.  
+	• Incident Response Plan: Developed an Incident Response Plan that outlines the steps IT teams should take to detect, assess, and respond to security incidents. The goal is to minimize potential damage and ensure a quick, effective recovery.  
+	• Vendor Risk Assessment: Created a vendor security questionnaire to assess third-party risks, analyzed responses, and provided recommendations for improving compliance.  
+	• IT Risk Assessment and Mitigation Plan: Performed an IT risk assessment to identify vulnerabilities in systems and processes. Developed a mitigation plan to address high-risk areas, ensuring better security and operational resilience.  
+	• IT Policies and Procedures: Designed comprehensive IT policies and procedures to establish guidelines for data security, user access, and incident management. Focused on aligning practices with industry standards to maintain compliance and safeguard assets.  
 
 🤝 Let’s Connect
 
