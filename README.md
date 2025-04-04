@@ -7,7 +7,7 @@ I’m always eager to learn and grow.
 👑 About Me
 
 	•	💻 IT & Cybersecurity Hybrid: Combining IT expertise with a growing focus on cybersecurity to build secure, efficient systems.
-	•	👩‍🎓 Business Administration Management Information Systems Major: Bachelor’s in Computer Science at Texas Southern University.
+	•	👩‍🎓 Business Administration Management Information Systems Major: Texas Southern University.
 	•	🛠️ Problem-Solver: I thrive on tackling technical and cybersecurity challenges, from troubleshooting hardware to deploying honeypots and securing networks.
  
 
