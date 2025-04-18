@@ -32,7 +32,7 @@ I’m always eager to learn and grow.
 	• IT Risk Assessment and Mitigation Plan: Performed an IT risk assessment to identify vulnerabilities in systems and processes. Developed a mitigation plan to address high-risk areas, ensuring better security and operational resilience.  
 	• IT Policies and Procedures: Designed comprehensive IT policies and procedures to establish guidelines for data security, user access, and incident management. Focused on aligning practices with industry standards to maintain compliance and safeguard assets.  
 	• Test Grade Calculator: A Python program that drops the lowest test score, calculates the average, and gives a letter grade.
-	• Number Analysis Python Project: 
+	• Number Analysis Python Project: Python program for finding low, high, total, average.
 
 🤝 Let’s Connect
 
