@@ -9,9 +9,9 @@ I’m always eager to learn and grow.
 I’m not just tech savvy — I’m systems minded. I understand how technology, people, and processes connect, and I specialize in bridging the gap between IT operations and mission objectives. My focus is on designing and securing systems while making sure they’re usable, scalable, and impactful.
 
 Through my academic journey and hands-on projects, I’ve demonstrated the ability to:
-	•	Design, document, and communicate end-to-end information solutions
-	•	Build clarity and efficient workflows that align technology with business goals
-	•	Strengthen and secure IT systems while supporting mission-critical operations
+•	Design, document, and communicate end-to-end information solutions
+•	Build clarity and efficient workflows that align technology with business goals
+•	Strengthen and secure IT systems while supporting mission-critical operations
 
 ⸻
 
