@@ -4,7 +4,24 @@ Welcome to my GitHub profile! I’m a tech and cybersecurity professional with c
 smarter and more secure. Whether it’s troubleshooting IT issues, bridging the gap between IT and business operations, or experimenting with cybersecurity tools, 
 I’m always eager to learn and grow.
 
-👑 About Me
+🌟 About Me
+
+I’m not just tech savvy — I’m systems minded. I understand how technology, people, and processes connect, and I specialize in bridging the gap between IT operations and mission objectives. My focus is on designing and securing systems while making sure they’re usable, scalable, and impactful.
+
+Through my academic journey and hands-on projects, I’ve demonstrated the ability to:
+	•	Design, document, and communicate end-to-end information solutions
+	•	Build clarity and efficient workflows that align technology with business goals
+	•	Strengthen and secure IT systems while supporting mission-critical operations
+
+⸻
+
+🔑 Skills & Interests
+	•	Identity & Access Management (IAM) | Azure AD, AWS IAM, Okta
+	•	Cybersecurity & Cloud Security | Security+ track, Azure & AWS security certifications
+	•	Systems Analysis & Design | Process improvement, system documentation
+	•	IT Operations | Troubleshooting, help desk support, customer-focused solutions
+
+👑 More About Me
 
 	•	💻 IT & Cybersecurity Hybrid: Combining IT expertise with a growing focus on cybersecurity to build secure, efficient systems.
 	•	👩‍🎓 Computer and Management Information Systems Major: Texas Southern University.
