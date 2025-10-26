@@ -16,7 +16,7 @@ Through my academic journey and hands-on projects, I’ve demonstrated the abili
 
 🔑 Skills & Interests
 	•	Identity & Access Management (IAM) | Azure AD, AWS IAM, Okta
-	•	Cybersecurity & Cloud Security | Security+ track, Azure & AWS security certifications
+	•	Cybersecurity & Cloud Security | Security+ track, Azure certifications
 	•	Systems Analysis & Design | Process improvement, system documentation
 	•	IT Operations | Troubleshooting, help desk support, customer-focused solutions
 
