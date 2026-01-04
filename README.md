@@ -1,15 +1,14 @@
  Hi, I’m Lillian McGowan 👑💕
 
-Welcome to my GitHub profile! I’m a tech and cybersecurity professional with certifications in CompTIA Security+, Microsoft Azure, Oracle Cloud AI. I have a passion for IT solutions, cybersecurity, and making systems 
-smarter and more secure. Whether it’s troubleshooting IT issues, bridging the gap between IT and business operations, or experimenting with cybersecurity tools, 
-I’m always eager to learn and grow.
+Welcome to my GitHub profile! I’m a technical and cybersecurity professional with certifications in CompTIA Security+, Microsoft Azure, Splunk, and Red Hat. I have a passion for IT solutions, cybersecurity, and making systems 
+smarter and more secure. Whether it’s troubleshooting IT issues, bridging the gap between IT and business operations, or experimenting with cybersecurity tools, I’m always eager to learn and grow.
 
 🌟 About Me
 
 I’m not just tech savvy — I’m systems minded. I understand how technology, people, and processes connect, and I specialize in bridging the gap between IT operations and mission objectives. My focus is on designing and securing systems while making sure they’re usable, scalable, and impactful.
 
 Through my academic journey and hands-on projects, I’ve demonstrated the ability to:
- •	Design, document, and communicate end-to-end information solutions
+	•	Design, document, and communicate end-to-end information solutions
 	•	Build clarity and efficient workflows that align technology with business goals
 	•	Strengthen and secure IT systems while supporting mission-critical operations
 
@@ -18,22 +17,30 @@ Through my academic journey and hands-on projects, I’ve demonstrated the abili
 	•	Identity & Access Management (IAM) | Azure AD, AWS IAM, Okta
 	•	Cybersecurity & Cloud Security | Security+ track, Azure certifications
 	•	Systems Analysis & Design | Process improvement, system documentation
-	•	IT Operations | Troubleshooting, help desk support, customer-focused solutions
+	•	IT Operations and Engineering | Troubleshooting, help desk support, customer-focused solutions
 
 👑 More About Me
 
 	•	💻 IT & Cybersecurity Hybrid: Combining IT expertise with a growing focus on cybersecurity to build secure, efficient systems.
-	•	👩‍🎓 Computer and Management Information Systems Major: Texas Southern University.
+	•	👩‍🎓 Computer and Management Information Systems Major: Houston City College, and Texas Southern University.
 	•	🛠️ Problem-Solver: I thrive on tackling technical and cybersecurity challenges, from troubleshooting hardware to deploying honeypots and securing networks.
  
 
 🔧 Skills & Tools
 
-	•	User account management, help desk, troubleshooting, and system setup.
-	•	IT Support (Help Desk Support).
-	•	Cybersecurity Tools:
-	•	TCM GRC Master Class Course, TryHackMe Labs, Honeypots, and threat detection tools.
-	•	Programming: Python
+	- 	User account management (provisioning, deprovisioning, password resets, access troubleshooting)
+
+	-	Identity lifecycle support across Apple ID, iCloud, LMS, and enterprise platforms
+
+	-	Multi-Factor Authentication (MFA) setup and end-user support
+
+	- 	Single Sign-On (SSO) troubleshooting and customer authentication support
+
+	-	Access reviews and handling escalated account permissions issues
+
+	-	Security incident escalation and ticket documentation
+
+	-	Customer communication, empathy, and stakeholder engagement
 
 🛠️ Current Projects
 
