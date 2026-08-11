@@ -1,7 +1,5 @@
 # Lillian McGowan
 
-# Lillian McGowan
-
 I build cloud infrastructure that works, and I can defend every single
 decision behind it — no hand-waving, no "it just seemed right."
 
