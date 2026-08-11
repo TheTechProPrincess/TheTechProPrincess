@@ -1,18 +1,18 @@
 # Lillian McGowan
 
-I build cloud infrastructure that works, and I can defend every single
-decision behind it — no hand-waving, no "it just seemed right."
+Cloud engineer with a Computer Information Systems and Management
+Information Systems background, holding CompTIA Security+, Microsoft
+Azure Administrator (AZ-104), and Red Hat certifications, currently
+working toward Azure Solutions Architect Expert (AZ-305).
 
-Cloud engineer in the making, built the way real engineering teams
-work: branches, pull requests, sourced research, documented decisions.
-Not tutorials followed once and forgotten — real systems, real
-reasoning, real trade-offs weighed and won.
+Every project below reflects real engineering practice — branches,
+pull requests, and documented reasoning behind each architecture and
+implementation decision, backed by sourced research rather than
+guesswork.
 
-Below: infrastructure automation, identity and access management,
-incident response grounded in a real Azure outage, and architecture
-decisions backed by actual pricing data — not guesses.
+Topics covered: Azure infrastructure automation, identity and access
+management, incident response modeled on a real Azure outage, and
+architecture decisions grounded in real cost and trade-off analysis.
 
-I didn't come to play. I came to build.
-
-Ask me about any decision in any repo below. I can walk you through
-every single one.
+I can walk through the reasoning behind any decision in any project
+below.
