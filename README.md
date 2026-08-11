@@ -2,7 +2,7 @@
 
 Cloud engineer with a Computer Information Systems and Management
 Information Systems background, holding CompTIA Security+, Microsoft
-Azure Administrator (AZ-104), and Red Hat certifications, currently
+Azure Administrator (AZ-104), and Red Hat Administrator certifications, currently
 working toward Azure Solutions Architect Expert (AZ-305).
 
 Every project below reflects real engineering practice — branches,
