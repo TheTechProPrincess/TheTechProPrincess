@@ -1,21 +1,20 @@
 # Lillian McGowan
 
-I don't just deploy infrastructure — I can tell you exactly why I made
-every call along the way, and what I'd change if the budget doubled or
-the team tripled.
+# Lillian McGowan
 
-Working toward RHCSA certification and a career in cloud engineering,
-DevOps, and Linux systems administration. My projects are built the
-way real engineering teams work: branches, pull requests, and
-documented decisions — not tutorials I followed once and forgot.
+I build cloud infrastructure that works, and I can defend every single
+decision behind it — no hand-waving, no "it just seemed right."
 
-What sets my work apart: every architecture choice below is backed by
-real research, real trade-off analysis, and a written record of the
-reasoning — the kind of decision-making most candidates can only
-describe after the fact, if at all.
+Cloud engineer in the making, built the way real engineering teams
+work: branches, pull requests, sourced research, documented decisions.
+Not tutorials followed once and forgotten — real systems, real
+reasoning, real trade-offs weighed and won.
 
-Currently: RHCSA prep, hands-on Azure architecture work, and a
-full-stack development internship
+Below: infrastructure automation, identity and access management,
+incident response grounded in a real Azure outage, and architecture
+decisions backed by actual pricing data — not guesses.
 
-Ask me anything about the projects below — I built every line and can
-defend every decision.
+I didn't come to play. I came to build.
+
+Ask me about any decision in any repo below. I can walk you through
+every single one.
